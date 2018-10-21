@@ -15,7 +15,7 @@
 克隆项目文件:
 
 ```bash
-git clone https://github.com/zuiidea/antd-admin.git
+git clone https://github.com/Echogithu/guanqing_system.git
 ```
 
 进入目录安装依赖:
